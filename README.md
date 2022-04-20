@@ -18,9 +18,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![ss1](https://github.com/zulfikar321/rest-countries-API/blob/main/screenshoot/Web%20capture_19-4-2022_74447_127.0.0.1.jpeg?raw=true)
-![ss2](https://github.com/zulfikar321/rest-countries-API/blob/main/screenshoot/Web%20capture_19-4-2022_7450_127.0.0.1.jpeg?raw=true)
-![ss3](https://github.com/zulfikar321/rest-countries-API/blob/main/screenshoot/Web%20capture_19-4-2022_74530_127.0.0.1.jpeg?raw=true)
+![ss1](https://github.com/zulfikar321/rock-paper-scissors-game/blob/main/ss/ss1.png?raw=true)
+![ss2](https://github.com/zulfikar321/rock-paper-scissors-game/blob/main/ss/ss2.png?raw=true)
 
 ### Built with
 
